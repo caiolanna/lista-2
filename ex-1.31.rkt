@@ -8,3 +8,5 @@
   "...")
 
 
+(provide product product-i)
+

@@ -12,3 +12,6 @@
 
 (define (carmichael-number? n)
   "...")
+
+
+(provide carmichael-number?)
