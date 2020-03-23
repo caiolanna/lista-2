@@ -1,0 +1,23 @@
+
+Exercise 1.19 ([[https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2][here]])
+
+No arquivo ex-1.19.rkt trocar o "..." pelo código sugerido. Note que
+ao completar as funções, vc estará automaticamente completando o
+código principal que usa elas.
+
+Exercise 1.27 
+
+Complete o código da função carmichael-number? que utiliza a função
+expmod. Esta função deve retornar #t ou #f.
+
+
+Exercise 1.30
+
+Complete o código do arquivo ex-1.30.rkt substituindo as strings
+"<??>" pelo código correto.
+
+Exercise 1.31
+
+complete o código das funções product e product-i que implementam o
+produtório e o produtório interativo.
+
