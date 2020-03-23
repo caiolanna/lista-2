@@ -1,5 +1,5 @@
 
-Exercise 1.19 ([[https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2][here]])
+Exercise 1.19
 
 No arquivo ex-1.19.rkt trocar o "..." pelo código sugerido. Note que
 ao completar as funções, vc estará automaticamente completando o
