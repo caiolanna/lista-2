@@ -19,10 +19,10 @@
 
 
 (define (pl p q)
-  "...")
+  (+ (* p p) (* q q)))
 
 (define (ql p q)
-  "...")
+  (+ (* (2 p a) (* q q)))
 
 
 
